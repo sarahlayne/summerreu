@@ -1,0 +1,1 @@
+plot %sech(argument)^2 %square hyperbolic secant
